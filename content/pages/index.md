@@ -32,7 +32,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-        
+        label:Contact US
     feature:
       type: ImageBlock
       url: /images/hero.png
