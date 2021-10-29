@@ -25,7 +25,7 @@ sections:
         style: secondary
       - label: Contact Us
         altText: Learn more
-        url: ''
+        url: 'https://fierce-anemone-b6f67.stackbit.app/contactpage/'
         showIcon: false
         icon: arrowLeft
         iconPosition: right
