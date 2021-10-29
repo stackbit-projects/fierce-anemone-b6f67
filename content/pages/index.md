@@ -32,6 +32,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
+        
     feature:
       type: ImageBlock
       url: /images/hero.png
